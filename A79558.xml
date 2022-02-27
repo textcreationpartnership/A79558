@@ -1,0 +1,1648 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>A compendious enchiridion touching most distempers incident to the body of man, with the best and easiest cures thereof Wherein the author desires the reader seriously to consider the particulars before censure be passed. [I]n all my travels with Salvator Winter, and many years after with that famous phisitian and chirurgeon John Ponteus; I never exacted on, or denied the poor my skill and medicines gratis, but still my house to them was as free as an hospital; the like never hath been performed but by your friend and neighbor John Church. [Ge]ntlemen take notice, that besides the old tract I gave you; I have now added for the good and benefit of my countrymen, a true way of making some cheap and necessary medicines; as balsomes, plaisters. Oyntments, diascordium and mithridate. [Wi]th the number of all the bones, veins,, [sic] muscles and arteries in the body of man.</title>
+            <author>Church, John, fl. 1682.</author>
+         </titleStmt>
+         <editionStmt>
+            <edition>
+               <date>1682</date>
+            </edition>
+         </editionStmt>
+         <extent>Approx. 47 KB of XML-encoded text transcribed from 14 1-bit group-IV TIFF page images.</extent>
+         <publicationStmt>
+            <publisher>Text Creation Partnership,</publisher>
+            <pubPlace>Ann Arbor, MI ; Oxford (UK) :</pubPlace>
+            <date when="2014-11">2014-11 (EEBO-TCP Phase 2).</date>
+            <idno type="DLPS">A79558</idno>
+            <idno type="STC">Wing C3986A</idno>
+            <idno type="STC">ESTC R232028</idno>
+            <idno type="EEBO-CITATION">99900138</idno>
+            <idno type="PROQUEST">99900138</idno>
+            <idno type="VID">137327</idno>
+            <availability>
+               <p>To the extent possible under law, the Text Creation Partnership has waived all copyright and related or neighboring rights to this keyboarded and encoded edition of the work described above, according to the terms of the CC0 1.0 Public Domain Dedication (http://creativecommons.org/publicdomain/zero/1.0/). This waiver does not extend to any page images or other supplementary files associated with this work, which may be protected by copyright or other license restrictions. Please go to https://www.textcreationpartnership.org/ for more information about the project.</p>
+            </availability>
+         </publicationStmt>
+         <seriesStmt>
+            <title>Early English books online text creation partnership.</title>
+         </seriesStmt>
+         <notesStmt>
+            <note>(EEBO-TCP ; phase 2, no. A79558)</note>
+            <note>Transcribed from: (Early English Books Online ; image set 137327)</note>
+            <note>Images scanned from microfilm: (Early English books, 1641-1700 ; 2527:17)</note>
+         </notesStmt>
+         <sourceDesc>
+            <biblFull>
+               <titleStmt>
+                  <title>A compendious enchiridion touching most distempers incident to the body of man, with the best and easiest cures thereof Wherein the author desires the reader seriously to consider the particulars before censure be passed. [I]n all my travels with Salvator Winter, and many years after with that famous phisitian and chirurgeon John Ponteus; I never exacted on, or denied the poor my skill and medicines gratis, but still my house to them was as free as an hospital; the like never hath been performed but by your friend and neighbor John Church. [Ge]ntlemen take notice, that besides the old tract I gave you; I have now added for the good and benefit of my countrymen, a true way of making some cheap and necessary medicines; as balsomes, plaisters. Oyntments, diascordium and mithridate. [Wi]th the number of all the bones, veins,, [sic] muscles and arteries in the body of man.</title>
+                  <author>Church, John, fl. 1682.</author>
+               </titleStmt>
+               <extent>[2], 6, 16 p.   </extent>
+               <publicationStmt>
+                  <publisher>Printed for the author,</publisher>
+                  <pubPlace>[London] :</pubPlace>
+                  <date>in the year 1682.</date>
+               </publicationStmt>
+               <notesStmt>
+                  <note>Includes a list, with separate pagination and register, of 151 herbs and their uses for medicinal purposes.</note>
+                  <note>Place of publication from Wing (CD-ROM edition).</note>
+                  <note>Reproduction of original in the Wellcome Institute for the History of Medicine, London.</note>
+               </notesStmt>
+            </biblFull>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>Created by converting TCP files to TEI P5 using tcp2tei.xsl,
+      TEI @ Oxford.
+      </p>
+         </projectDesc>
+         <editorialDecl>
+            <p>EEBO-TCP is a partnership between the Universities of Michigan and Oxford and the publisher ProQuest to create accurately transcribed and encoded texts based on the image sets published by ProQuest via their Early English Books Online (EEBO) database (http://eebo.chadwyck.com). The general aim of EEBO-TCP is to encode one copy (usually the first edition) of every monographic English-language title published between 1473 and 1700 available in EEBO.</p>
+            <p>EEBO-TCP aimed to produce large quantities of textual data within the usual project restraints of time and funding, and therefore chose to create diplomatic transcriptions (as opposed to critical editions) with light-touch, mainly structural encoding based on the Text Encoding Initiative (http://www.tei-c.org).</p>
+            <p>The EEBO-TCP project was divided into two phases. The 25,368 texts created during Phase 1 of the project (2000-2009), initially available only to institutions that contributed to their creation, were released into the public domain on 1 January 2015. The approximately 40,000 texts produced during Phase 2 (2009- ), of which 34,963 had been released as of 2020, originally similarly restricted, were similarly freed from all restrictions on 1 August 2020. As of that date anyone is free to take and use these texts for any purpose (modify them, annotate them, distribute them, etc.). But we do respectfully request that due credit and attribution be given to their original source.</p>
+            <p>Users should be aware of the process of creating the TCP texts, and therefore of any assumptions that can be made about the data.</p>
+            <p>Text selection was based on the New Cambridge Bibliography of English Literature (NCBEL). If an author (or for an anonymous work, the title) appears in NCBEL, then their works are eligible for inclusion. Selection was intended to range over a wide variety of subject areas, to reflect the true nature of the print record of the period. In general, first editions of a works in English were prioritized, although there are a number of works in other languages, notably Latin and Welsh, included and sometimes a second or later edition of a work was chosen if there was a compelling reason to do so.</p>
+            <p>Image sets were sent to external keying companies for transcription and basic encoding. Quality assurance was then carried out by editorial teams in Oxford and Michigan. 5% (or 5 pages, whichever is the greater) of each text was proofread for accuracy and those which did not meet QA standards were returned to the keyers to be redone. After proofreading, the encoding was enhanced and/or corrected and characters marked as illegible were corrected where possible up to a limit of 100 instances per text. Any remaining illegibles were encoded as &lt;gap&gt;s. Understanding these processes should make clear that, while the overall quality of TCP data is very good, some errors will remain and some readable characters will be marked as illegible. Users should bear in mind that in all likelihood such instances will never have been looked at by a TCP editor.</p>
+            <p>The texts were encoded and linked to page images in accordance with level 4 of the TEI in Libraries guidelines.</p>
+            <p>Copies of the texts have been issued variously as SGML (TCP schema; ASCII text with mnemonic sdata character entities); displayable XML (TCP schema; characters represented either as UTF-8 Unicode or text strings within braces); or lossless XML (TEI P5, characters represented either as UTF-8 Unicode or TEI g elements).</p>
+            <p>Keying and markup guidelines are available at the <ref target="http://www.textcreationpartnership.org/docs/.">Text Creation Partnership web site</ref>.</p>
+         </editorialDecl>
+         <listPrefixDef>
+            <prefixDef ident="tcp"
+                       matchPattern="([0-9\-]+):([0-9IVX]+)"
+                       replacementPattern="http://eebo.chadwyck.com/downloadtiff?vid=$1&amp;page=$2"/>
+            <prefixDef ident="char"
+                       matchPattern="(.+)"
+                       replacementPattern="https://raw.githubusercontent.com/textcreationpartnership/Texts/master/tcpchars.xml#$1"/>
+         </listPrefixDef>
+      </encodingDesc>
+      <profileDesc>
+         <langUsage>
+            <language ident="eng">eng</language>
+         </langUsage>
+         <textClass>
+            <keywords scheme="http://authorities.loc.gov/">
+               <term>Herbs --  Early works to 1800.</term>
+               <term>Medicine --  Formulae, receipts, prescriptions --  Early works to 1800.</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+      <revisionDesc>
+         <change>
+            <date>2013-05</date>
+            <label>TCP</label>Assigned for keying and markup</change>
+         <change>
+            <date>2013-07</date>
+            <label>SPi Global</label>Keyed and coded from ProQuest page images</change>
+         <change>
+            <date>2013-10</date>
+            <label>Olivia Bottum</label>Sampled and proofread</change>
+         <change>
+            <date>2013-10</date>
+            <label>Olivia Bottum</label>Text and markup reviewed and edited</change>
+         <change>
+            <date>2014-03</date>
+            <label>pfs</label>Batch review (QC) and XML conversion</change>
+      </revisionDesc>
+   </teiHeader>
+   <text xml:lang="eng">
+      <front>
+         <div type="title_page">
+            <pb facs="tcp:137327:1" rendition="simple:additions"/>
+            <p>A Compendious ENCHIRIDION Touching moſt Diſtempers Incident to the body of Man, With the beſt and eaſieſt Cures thereof.</p>
+            <p>Wherein the Author deſires the Reader ſeriouſly to conſider the Particulars before Cenſure be paſſed.</p>
+            <p>
+               <gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                  <desc>•</desc>
+               </gap>n all my Travels with <hi>Salvator Winter,</hi> and many years after with that famous Phiſitian and Chi<g ref="char:EOLhyphen"/>rurgeon <hi>John Ponteus;</hi> I never exacted on, or denied the Poor my skill and Medicines <hi>Gratis,</hi> but ſtill my houſe to them was as free as an Hoſpital; the like never hath been performed but by your Friend and Neighbour <hi>JOHN CH<g ref="char:V">Ʋ</g>RCH.</hi>
+            </p>
+            <p>
+               <gap reason="illegible" resp="#KEYERS" extent="2 letters">
+                  <desc>••</desc>
+               </gap>ntlemen take notice, that beſides the old Tract I gave you; I have now added for the good and benefit of my Countrymen, a true way of making ſome cheap and neceſſary Medicines; As <hi>Bal<g ref="char:EOLhyphen"/>ſomes, Plaiſters. Oyntments, Diaſcor<g ref="char:EOLhyphen"/>dium</hi> and <hi>Mithridate.</hi>
+            </p>
+            <p>
+               <gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                  <desc>•</desc>
+               </gap>th the number of all the <hi>Bones, Veins, Muſcles</hi> and <hi>Arteries</hi> in the Body of Man.</p>
+            <p>Printed for the Author in the year 1682.</p>
+         </div>
+      </front>
+      <body>
+         <div type="prologue">
+            <pb facs="tcp:137327:2" rendition="simple:additions"/>
+            <pb n="1" facs="tcp:137327:2"/>
+            <head>The Prologue.</head>
+            <p>
+               <hi>Gent.</hi> ALthough I have not time to give you a Catalogue of all the Famous and admirable Cures performed by me in mine own Country, and other places of this Kingdome, by reaſon it would be tedious for your reading, and too large for the Preſs; yet I am will<g ref="char:EOLhyphen"/>
+               <gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                  <desc>•</desc>
+               </gap>ng to give a touch in ſhort of ſome Cures performed by me amongſt your neighcors, who were left uncured by ſome Chirurgeons, counted <gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                  <desc>•</desc>
+               </gap>ble men. Nevertheleſs you may ſee that Gods bleſſing daily attends my endeavours. For when I am at work for the poor, my delight is <gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                  <desc>•</desc>
+               </gap>o perform their cures Charitably, believing that God will crown my endeavours with ſucceſs. Bleſſed be his glorious name for ever,</p>
+            <p>
+               <hi>Gentlemen,</hi> we are not unſenſible that there are too many Preten<g ref="char:EOLhyphen"/>ders in our time, who promiſing to perform great cures, have taken <gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                  <desc>•</desc>
+               </gap>our mony, and left you worſe than they found you. But my way is to <gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                  <desc>•</desc>
+               </gap>erform your cures before you part with your mony. Some few Cures I ſhall inſtance in for brevities ſake.</p>
+            <p>I ſhall not ſtand on curious delivery, nor on high quaint termes of Art, although I am a great lover thereof: but in a low and plain way, <gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                  <desc>•</desc>
+               </gap>o that the meaneſt capacity may underſtand, what with Gods bleſ<g ref="char:EOLhyphen"/>
+               <gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                  <desc>•</desc>
+               </gap>ng I can do for them. As followeth.</p>
+            <div type="declaration">
+               <head>A Declaration of ſome Cures performed by <hi>J. C.</hi>
+               </head>
+               <p>
+                  <hi>
+                     <gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                        <desc>•</desc>
+                     </gap>irs,</hi> I will begin with the Eyes, being ſeated in the moſt noble and principal part, and are as Chriſtal Windows to let light <gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>o all manual operations, For God hath hollowed out in the Scull <gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>wo Windows, into which the outmoſt Membranes of the Brain <gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>end two things fill'd like bags, with the Humours that come from <gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>he brain. In the midſt of which there is a Pipe interwoven of an O<g ref="char:EOLhyphen"/>
+                  <gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>acous thin Membrane, yet full of a moſt pure and Chriſtaline Hu<g ref="char:EOLhyphen"/>
+                  <gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>our, called the Apple of the Eye, in the which viſion is made. This <gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>s compaſſed with a Net-work full of a watry or glaſſie humour. And
+<pb n="2" facs="tcp:137327:3"/> laſt of all that Membrane which is commonly call'd the White of th<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                     <desc>•</desc>
+                  </gap> Eye: but Philoſophers (becauſe it is hard and poliſh'd over li<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                     <desc>•</desc>
+                  </gap> horn) call it <hi>cornea;</hi> and this is tranſparent over againſt the Apple <gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                     <desc>•</desc>
+                  </gap> the Net-work. Elſewhere it retains its whiteneſs. Now under th<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                     <desc>•</desc>
+                  </gap> Root of the Apple lies the Optick Nerve, by which the image of th<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                     <desc>•</desc>
+                  </gap> thing perceived paſſeth ſtraight to the center of the Brain. For ſig<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                     <desc>•</desc>
+                  </gap> is only the reſiliencie of the ſpecies from the object to the eye, <hi>&amp;c.</hi>
+               </p>
+               <p>I couch'd Cataract's for <hi>Richard Smart</hi> a Hempdreſſer living <gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                     <desc>•</desc>
+                  </gap> 
+                  <hi>Cow lane</hi> near <hi>Smithfield,</hi> and many others to their comfort and m<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                     <desc>•</desc>
+                  </gap> credit.</p>
+               <p>I cured <hi>Mary Millard</hi> liveing within two miles of <hi>Chealtenham</hi> i<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                     <desc>•</desc>
+                  </gap> Gloſter-ſhire of the <hi>Falling ſickneſs</hi> (who had been afflicted 14 years by anointing the Spundles of her back with my Balſom, and givin<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                     <desc>•</desc>
+                  </gap> her my <hi>Eſſentia Mercurialis, &amp;c.</hi>
+               </p>
+               <p>I Cured <hi>Humphry Blackwel</hi> living in <hi>Eaſtwell</hi> in <hi>Stockly</hi> Pariſh i<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                     <desc>•</desc>
+                  </gap> Oxfordſhire (being ſhot through part of his head with a Rammer <gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                     <desc>•</desc>
+                  </gap> a Gun) with <hi>Linnimentum Archei,</hi> and <hi>Emplaſtrum magiſtpale cu<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                        <desc>•</desc>
+                     </gap> Bitum.</hi>
+               </p>
+               <p>I Cured <hi>Margaret Carter</hi> living within three Miles of <hi>Bracklie</hi> i<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                     <desc>•</desc>
+                  </gap> Buckingham-ſhire, who had been Blind for the ſpace of 15 year<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                     <desc>•</desc>
+                  </gap> With many too long to nominate.</p>
+               <p>Alſo in the Diſeaſes of the Eyes I commonly uſe <hi>Medicamen ſiv<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                        <desc>•</desc>
+                     </gap> Collirium noſtrum,</hi> made of <hi>Tutta Magiſtralis;</hi> wherewith I do not on<g ref="char:EOLunhyphen"/>ly cure watry eyes, but alſo the great pain of the Eye-lids: and alſ<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                     <desc>•</desc>
+                  </gap> where there is fleſh growing over the ſight; that it ſeemeth to b<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                     <desc>•</desc>
+                  </gap> paſt the cure of common Phiſitians and Chirurgions that profeſ<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                     <desc>•</desc>
+                  </gap> themſelves to be very skilful in Occuliſm, or griefs of the Eyes.</p>
+               <p>I cured <hi>John Ball</hi> of <hi>Bloxom</hi> near <hi>Banburie.</hi> He was a Baker, wh<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                     <desc>•</desc>
+                  </gap> did ſuck his meat through a Quill two years, by reaſon of a Cancer i<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                     <desc>•</desc>
+                  </gap> his face. I gave him <hi>Flores Veneris,</hi> and did uſe <hi>Oleum Vitrioli;</hi> an<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                     <desc>•</desc>
+                  </gap> with my Balſom &amp; Plaiſters finiſhed the cure. I Cut and cured <hi>Mar<g ref="char:EOLunhyphen"/>tha William</hi> of <hi>Michael Deane</hi> on my Stage in Gloſter-ſhire, a Broom mans Daughter of a Hare or cloven Lip, who had been cut and muc<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                     <desc>•</desc>
+                  </gap> abuſed by one endeavouring to cure it before; but left her very de<g ref="char:EOLunhyphen"/>formed. With many others, whom I have perfectly cured which for brevities ſake omit.</p>
+               <p>I Cured <hi>James Fiſher,</hi> a Scholler of <hi>Oxford</hi> of a <hi>Fistula</hi> in his ſide between the Ribs and the intercoſtle Muſcles, giving him inwardl<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>
+                  <pb n="3" facs="tcp:137327:3"/> my Golden Balm, and uſing <hi>Flos unguentorum</hi> about the ſaid wound; with <hi>Emplaſtrum Stipticum,</hi> and injections with <hi>Mel Roſarum,</hi> and Tents dipped ſometimes in <hi>Egiptiacum.</hi>
+               </p>
+               <p>I Cured a Fiſtula in <hi>Ano</hi> for <hi>John Rogers</hi> living in <hi>Stratford on Avon.</hi> I Cured <hi>Robert Clements,</hi> living in a Village within a mile of <hi>Banbu<g ref="char:EOLhyphen"/>
+                     <gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                        <desc>•</desc>
+                     </gap>ie</hi> of an Vlcer in his Leg.</p>
+               <p>I Cured <hi>Anthony Michel</hi> living in <hi>Eaſom,</hi> who had 27 Ulcers or <gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>oles. Inſomuch that it was threatned and doom'd to be taken off. Who I did perfectly cure, and others with the foreſaid Remedy.</p>
+               <p>I Cured a Wry-neck for <hi>John Scot</hi> living in <hi>Sadbury</hi> in Gloſterſhire. I Cut and cured <hi>David Harris</hi> living in <hi>Dounings Allie</hi> in <hi>Biſhops<g ref="char:EOLhyphen"/>
+                     <gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                        <desc>•</desc>
+                     </gap>ate ſtreet,</hi> of a Wen being on the ſide of his neck, weighing above a <gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>ound and a half. And many others.</p>
+               <p>Alſo I cure all Ruptures, or burſtings, commonly called broken-<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>ellies, either with, or without cutting, which are curable. And alſo <gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>l thoſe tumours or ſtartings out of the Navil.</p>
+               <p>Cut and cured <hi>Samuel Weſt</hi> of the Stone in the bladder, <hi>Malmſbury</hi>
+               </p>
+               <p>In the <hi>Dropſie, Aſcites,</hi> I do ſometimes uſe Tapping with good ſuc<g ref="char:EOLhyphen"/>
+                  <gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>eſs. I Tap't, and did extract from one <hi>Joan Gamble</hi> at times, 2, or 3 <gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>d 20 Quarts of undigeſted Urine, or water. Alſo I do often cure the <gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>ropſie, <hi>Tinpanies</hi> and <hi>Anaſarca,</hi> with my Balſom, Fomentations, &amp; <gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>ataplaſms, giving <hi>Elaterium:</hi> I uſe Sudorificks, according to the age, <gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>rength, and conſtitution of the diſeaſed parties.</p>
+               <p>Cancers cut and cured 6 this year 1681 at <hi>Chippingnorton.</hi> I Cured <hi>John Prat</hi> of <hi>Keynton, Robert Savage</hi> of <hi>Long-compton, <gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                        <desc>•</desc>
+                     </gap>eorge Roberts</hi> of <hi>Shipton</hi> upon <hi>Stover,</hi> all of Cancers in the Lip.</p>
+               <p>I Cured <hi>John Cox</hi> of <hi>Uffington,</hi> near <hi>Farringdon</hi> of a Cancer in the <gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>ugh of his Mouth which had by its continuance eaten through his <gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>w.</p>
+               <p>Cured <hi>Richard Shirborn</hi> of <hi>Aſcott</hi> near <hi>Burford,</hi> of a Cancer in his <gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>ongue left uncured by able Chyrurgions.</p>
+               <p>I Cut and Cured the Tongue of a woman of <hi>Chippingnorton</hi> which <gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>d a latge Stone in the middle, weighing half an Ounce, to the <gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>miration of all ſpectators: who is now alive and ready to juſtifie <gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>e truth of it.</p>
+            </div>
+            <div type="directions">
+               <head>Directions for the Compoſing of that incomparable Medcine called the <hi>Golden Balm.</hi>
+               </head>
+               <p>Take <hi>Olei Terebinth.</hi> lb. 4. <hi>Mirrhae</hi> ℥ 2 ſs. <hi>Mastices</hi> ℥ 1. <hi>arcocllo</hi>
+                  <pb n="2" facs="tcp:137327:4"/>
+                  <gap reason="duplicate" extent="1 page">
+                     <desc>〈1 page duplicate〉</desc>
+                  </gap>
+                  <pb n="3" facs="tcp:137327:4"/>
+                  <gap reason="duplicate" extent="1 page">
+                     <desc>〈1 page duplicate〉</desc>
+                  </gap>
+                  <pb n="4" facs="tcp:137327:5"/> 
+                  <g ref="char:dram">ʒ</g> 2. <hi>Gum. Elemi</hi> 
+                  <g ref="char:dram">ʒ</g> 6. <hi>Gum. vel pinguedinis Palmae</hi> ℥ 7. <hi>Spirit. Vi<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                        <desc>•</desc>
+                     </gap> Opt.</hi> lb. 2. Mix them together in a ſtrong Glaſs, and infuſe them i<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                     <desc>•</desc>
+                  </gap> 
+                  <hi>Balreo Mariae,</hi> 10 daies. Afterwards put to it <hi>Olei Hypper.</hi> lb. 1 <gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                     <desc>•</desc>
+                  </gap> 
+                  <hi>Tereb. puriſſim.</hi> 
+                  <g ref="char:dram">ʒ</g> 4. <hi>Cerae albae</hi> 
+                  <g ref="char:dram">ʒ</g> 6. <hi>ellis</hi> 3. <hi>Miſc. fiot Unguent. v<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                        <desc>•</desc>
+                     </gap> alme.</hi>
+               </p>
+               <p>This Golden Balm or Unguent, is of ſo great virtue, that it <gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                     <desc>•</desc>
+                  </gap> to be admired, for it's wonderful efficacie and operations, both in<g ref="char:EOLunhyphen"/>wardly and outwardly; for all great Squats, Bruſes, Falls, give half drachm, or ſafely a whole drachm in Sack, or any convenient drink anointing the greived place outwardly.</p>
+               <p>For all wounds, new or old, make pledget of fine Tow or Lin<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                     <desc>•</desc>
+                  </gap> the bigneſs of the wound, and lay on any common plaiſter; as <hi>Dia<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                        <desc>•</desc>
+                     </gap> chilon,</hi> or <hi>Deminio,</hi> and if the wound be deep, you may make Tent of the ſame.</p>
+               <p>Alſo anointing any greived part, or painful ſwelling, it givet<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                     <desc>•</desc>
+                  </gap> ſpeedy eaſe, and aſſwageth.</p>
+               <p>And for all Sinewes that are contracted, or ſhrunken. For Cramp<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                     <desc>•</desc>
+                  </gap> and Convulſions, anointing the Spundles of the back. Truly it woul<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                     <desc>•</desc>
+                  </gap> require a wiſe Pen, and a large Volume to ſet down all it's healin<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                     <desc>•</desc>
+                  </gap> Virtues, and curious Operations.</p>
+            </div>
+            <div type="instructions">
+               <head>Of Phyſick, Chirurgery, and Anatomy.</head>
+               <p>Alſo I am bold to give you a touch of Phyſick and Chyrurg<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>
+                  <g ref="char:EOLunhyphen"/>ry: For I am much ſtreigthned for want of time.</p>
+               <p>The moving principle in a living man, is the vital ſoul, which nothing elſe but the ſpirit of life, thick and ſtrong, mightily fillin<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                     <desc>•</desc>
+                  </gap> and powerfully governing the bodies which it inhabiteth.</p>
+               <p>For the body of man is Compound, and conſiſteth of Spirit, Fleſ<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                     <desc>•</desc>
+                  </gap> Blood, Membranes, Veines, Nerves, Griſtles, and Laſtly Ton<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                     <desc>•</desc>
+                  </gap> being as it were the props and pillars, leaſt the frame ſhould f<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                     <desc>•</desc>
+                  </gap> Which are in number as followeth.</p>
+               <p>The Head hath 8. The upper jaw 2. The lower jaw 1. The Tee<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                     <desc>•</desc>
+                  </gap> are 32, ſometimes but 28. The <hi>Spina</hi> hath 24. The <hi>Os ſacrum</hi> 5. T<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                     <desc>•</desc>
+                  </gap> Ribs are 24. The Breaſt bone 1. but compoſed of 3. The Cannenl bon<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                     <desc>•</desc>
+                  </gap> 2. Th Shoulder-blades 2. The Iſchium 3. In the Armes 6 In t<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>
+                  <pb n="5" facs="tcp:137327:5"/> Feet 64. The great ſeedlike bones of the great Toes 4. If with ſome Anatomiſts you reckon 24 ſeed-like bones in the two hands, and ſo many in the two Feet, and two in each Ham, and the 8 bones in each Hand between the <hi>Carpus</hi> and the <hi>Metacarpus;</hi> and the bony ſuſtance <gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>nexed to the <hi>Cuboides</hi> in both the feet. In old perſons you ſhall have <gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>4 more, which being joyned to 246, make up 302 bones expreſſed <gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>hus.</p>
+               <q>
+                  <l>Ter centum binis compactum est oſſibus iſtud,</l>
+                  <l>Quod gerimus corpus, non eſt quod plura requiras.</l>
+                  <l>
+                     <hi>If you 302 bones chance to find,</hi>
+                  </l>
+                  <l>
+                     <hi>Few, or none, are left behind.</hi>
+                  </l>
+               </q>
+               <p>The principle tranſmutation of the nouriſhment in man is by Pro<g ref="char:EOLhyphen"/>
+                  <gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>eneration of the Four Vital humours, Blood, Flegm, Yellow and <gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>lack Choler. For the nouriſhment received being tempered (as in<g ref="char:EOLhyphen"/>
+                  <gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>eed all bodies of the world are) of the Four Elements, is reſolved in <gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>he body of a living creature into four again. The fatteſt part of it is <gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>rned into Blood: a part into Spittle or Flegme: a part into Yellow Choler, and a part into Black Choler, or Melancholy. For Melancho<g ref="char:EOLhyphen"/>
+                  <gap reason="illegible" resp="#KEYERS" extent="2 letters">
+                     <desc>••</desc>
+                  </gap> by its terrene groſsneſs, repreſents the Earth. Flegme, Water, <gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>lood, Air. Choler, Fire. But they differ in colour and reliſh. For <gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>elancholy is black, and ſomething bitter. Flegme, white, and with<g ref="char:EOLhyphen"/>
+                  <gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>ut taſt. Blood, red, and ſweet. Choler, yellow, and very bitter.</p>
+               <p>Note that amongſt thoſe Four, Blood is moſt copiouſly generated, <gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>ontaining the very ſubſtance of our nouriſhment, to which yellow <gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>holer only adds a more eaſie penitration through all. Black Choler <gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>xes it again; and applieth it to the members. Laſtly Flegm tem<g ref="char:EOLhyphen"/>
+                  <gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>ers the Acrimonies of them both, (leaſt they ſhould Corode) <gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>ith penetrating and fixing: and gently agglutinates the blood to the <gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>embers. Hence it is that Phiſitians alſo, with the Vulgar, ſpeak of the <gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>lood, as if it were the only food of life. Now the principle concocti<g ref="char:EOLhyphen"/>
+                  <gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>n in a living creature is threefold. 1. Chilification. 2. Sanguification. <gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>. Membrification. The Firſt is made in the Stomach. The Second in <gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>e Liver. And the Laſt in all the members. Now the Stomach is <gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>e common Sink-port, or receptacle of all maladies. Crudity is the <gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>ed of all diſeaſes. From thence groſs vapours ariſe, cauſing in<g ref="char:EOLhyphen"/>
+                  <gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>ations: the ſame condenſed in the head, cauſeth diſtillation 1. <gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>he other member, of the body it cauſeth obſtructions, whence fol<g ref="char:EOLhyphen"/>loweth
+<pb n="6" facs="tcp:137327:6"/> rottenneſs or inflammation. Therefore let it be taken for gra<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>
+                  <g ref="char:EOLunhyphen"/>ed, that he taketh the beſt courſe for his bodily health, that ende<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>
+                  <g ref="char:EOLunhyphen"/>vours to prevent Crudities. Now the beſt waies to prevent them Temperateneſs: as in food, ſleep, and daily exerciſes. O the ſtran<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                     <desc>•</desc>
+                  </gap> virtue of Labor! whereby our ever to be adored God ordered o<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                     <desc>•</desc>
+                  </gap> firſt Parents to get their bread and health in the ſweat of their brow<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                     <desc>•</desc>
+                  </gap> intimating that they ſhould get their bread and health togethe<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                     <desc>•</desc>
+                  </gap> which miſtery, if the debauched and ſlothful Gentry of this Kingdo<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                     <desc>•</desc>
+                  </gap> would rightly weigh, and ſeriouſly conſider, they would not waſ<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                     <desc>•</desc>
+                  </gap> their lives in idleneſs <hi>&amp;c.</hi>
+               </p>
+               <p>I muſt beg your pardon, and break off abruptly, as touching the<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                     <desc>•</desc>
+                  </gap> things: or I ſhall walk into ſo pleaſant a field, that I ſhall not be <gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>
+                  <g ref="char:EOLunhyphen"/>ble to get forth; I muſt therefore but only hint at things.</p>
+            </div>
+            <div type="instructions">
+               <head>Of the Quantities of Weights which are at this daie in uſe in preparing, and compoſing Medicines,</head>
+               <p>For as much as the perfect knowledg of Medicines cannot be atai<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>
+                  <g ref="char:EOLunhyphen"/>ed unto, without the knowledg of the quantities of Weights, whic<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                     <desc>•</desc>
+                  </gap> are at this preſent day moſt commonly uſed in making and preparin<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                     <desc>•</desc>
+                  </gap> Medicines. I thought good to declare them, as followeth.</p>
+               <p>
+                  <table>
+                     <row>
+                        <cell>
+                           <hi>A Grain, is a Barly corn, taken out of the middle of the ear</hi>
+                        </cell>
+                        <cell>Granum.</cell>
+                        <cell>
+                           <gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                              <desc>•</desc>
+                           </gap>
+                        </cell>
+                     </row>
+                     <row>
+                        <cell>
+                           <hi>A Scruple, is twenty Barly cornes.</hi>
+                        </cell>
+                        <cell>Scrupulus.</cell>
+                        <cell>℈</cell>
+                     </row>
+                     <row>
+                        <cell>
+                           <hi>Three Scruples containes a Drachme.</hi>
+                        </cell>
+                        <cell>Drachma.</cell>
+                        <cell>
+                           <g ref="char:dram">ʒ</g>
+                        </cell>
+                     </row>
+                     <row>
+                        <cell>
+                           <hi>Eight Drachmes contain one Ounce.</hi>
+                        </cell>
+                        <cell>Unicia.</cell>
+                        <cell>℥</cell>
+                     </row>
+                     <row>
+                        <cell>
+                           <hi>Quart; ſignifieth a quart of any thing.</hi>
+                        </cell>
+                        <cell>Quar.</cell>
+                        <cell>q</cell>
+                     </row>
+                     <row>
+                        <cell>
+                           <hi>Libra, is a pound And hath this Note.</hi>
+                        </cell>
+                        <cell>Libra.</cell>
+                        <cell>lb</cell>
+                     </row>
+                     <row>
+                        <cell>
+                           <hi>Semis is the half of every weight.</hi>
+                        </cell>
+                        <cell>Semis.</cell>
+                        <cell>ſs</cell>
+                     </row>
+                     <row>
+                        <cell>
+                           <hi>Manipulus, is a great handful.</hi>
+                        </cell>
+                        <cell>Manipulus.</cell>
+                        <cell>M</cell>
+                     </row>
+                     <row>
+                        <cell>
+                           <hi>Pugilus is a ſmall handful.</hi>
+                        </cell>
+                        <cell>Pugilus.</cell>
+                        <cell>P</cell>
+                     </row>
+                     <row>
+                        <cell>
+                           <hi>Ana, is of every one a like much.</hi>
+                        </cell>
+                        <cell>Ana.</cell>
+                        <cell>
+                           <gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                              <desc>•</desc>
+                           </gap>
+                        </cell>
+                     </row>
+                  </table>
+               </p>
+               <p>Ne parva averſeris, ineſt ſua gratia parvis.</p>
+            </div>
+            <trailer>FINIS.</trailer>
+         </div>
+         <div n="1" type="plant">
+            <pb n="1" facs="tcp:137327:6" rendition="simple:additions"/>
+            <head>1. <hi>Artemiſia</hi> Mugwort.</head>
+            <p>GRows by the borders of Fields and High-way-ſides, and it flowreth in <hi>Auguſt,</hi> and it is ſomewhat Aſtringent, and not <gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                  <desc>•</desc>
+               </gap>o hot, pound it with Oyl of Sweet Almonds, and lay it as a Plaſ<g ref="char:EOLhyphen"/>
+               <gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                  <desc>•</desc>
+               </gap>r, eaſeth the pain of the Stomack, alſo it cureth the Ach and <gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                  <desc>•</desc>
+               </gap>aking and drawing together of Sinews</p>
+         </div>
+         <div n="2" type="plant">
+            <head>2. <hi>Tuſſilago</hi> Coltsfoot,</head>
+            <p>It groweth in Watry-places, and moiſt fields, is of a drying na<g ref="char:EOLhyphen"/>
+               <gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                  <desc>•</desc>
+               </gap>re; pounded with Honey, it cureth hot Inflamations, and St. <hi>An<g ref="char:EOLhyphen"/>
+                  <gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>ony's</hi> fier being laid thereon, it is good for any Impoſtumations of <gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                  <desc>•</desc>
+               </gap>e ſtomack.</p>
+         </div>
+         <div n="3" type="plant">
+            <head>3. <hi>Petaſites:</hi> Butter Burre.</head>
+            <p>
+               <gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                  <desc>•</desc>
+               </gap>t groweth in moiſt places: it flowereth in <hi>March,</hi> and it is <gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                  <desc>•</desc>
+               </gap>ry in the third degree, being dried to powder and drunk in Wine, <gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                  <desc>•</desc>
+               </gap>rovokes Sweat, it killeth Wormes, and is of great force againſt the <gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                  <desc>•</desc>
+               </gap>uffocations or Fits of the Mother, it cureth all Ulcers or old <gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                  <desc>•</desc>
+               </gap>thy Sores.</p>
+         </div>
+         <div n="4" type="plant">
+            <head>4. <hi>Britannica</hi> Biſtort,</head>
+            <p>They be of two ſorts and flowereth in <hi>May,</hi> cold and dry in <gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                  <desc>•</desc>
+               </gap>e third degree, being boyled in red wine and drunken ſtopeth <gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                  <desc>•</desc>
+               </gap>e Bloody-flux, it alſo ſtopeth the overmuch flowing of Womens <gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                  <desc>•</desc>
+               </gap>urgations and all other Iſſues of blood</p>
+         </div>
+         <div n="5" type="plant">
+            <head>5. <hi>Fumaria</hi> Fumitory.</head>
+            <p>It grows amongſt Wheat and Barley, hot and dry in the ſecond <gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                  <desc>•</desc>
+               </gap>egree, flowers in <hi>June,</hi> the decoction is good in all hot Col<g ref="char:EOLhyphen"/>
+               <gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                  <desc>•</desc>
+               </gap>ectick humours, alſo againſt the fowl ſcurf or old ſores butifying <gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                  <desc>•</desc>
+               </gap>he skin and purging the body.</p>
+         </div>
+         <div n="6" type="plant">
+            <head>6. <hi>Chamaedrys</hi> Germainder.</head>
+            <p>It groweth in ſtony Hills and Gardens flowereth in <hi>July,</hi> hot <gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                  <desc>•</desc>
+               </gap>nd dry in the third degree, opens all obſtructions of the Liver <gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                  <desc>•</desc>
+               </gap>nd Spleen it bringeth down Womens natural purgations, it pur<g ref="char:EOLhyphen"/>
+               <gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                  <desc>•</desc>
+               </gap>eth the body.</p>
+         </div>
+         <div n="7" type="plant">
+            <head>7. <hi>Bitonica</hi> St. <hi>Pauls</hi> Bitony.</head>
+            <p>Male and Foemale, the Male <hi>Veronica,</hi> it groweth in ſandy places
+<pb n="2" facs="tcp:137327:7"/> about Woods, the Foemale groweth in low moiſt places, they fl<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                  <desc>•</desc>
+               </gap>
+               <g ref="char:EOLunhyphen"/>er in <hi>July,</hi> it is dry and ſomething hot, it is very good for ſ<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                  <desc>•</desc>
+               </gap>
+               <g ref="char:EOLunhyphen"/>pings and pains of the Kidneyes, i<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                  <desc>•</desc>
+               </gap> is good in old Coughs and <gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                  <desc>•</desc>
+               </gap>
+               <g ref="char:EOLunhyphen"/>rupted Longs and Ulcers.</p>
+         </div>
+         <div n="8" type="plant">
+            <head>8. <hi>Ajugo</hi> Ground-pine.</head>
+            <p>Grows in ſtony ground ſlowers in <hi>Auguſt;</hi> it is hot in ſecond degree and dry in the third, it is good to apply to the Sti<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                  <desc>•</desc>
+               </gap>
+               <g ref="char:EOLunhyphen"/>ings of any Venomous Beaſt, boyled in Vinegar and drunken d<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                  <desc>•</desc>
+               </gap>
+               <g ref="char:EOLunhyphen"/>vereth the dead Child, diſſolves congealed blood, anointing body with the Juice provokes ſweating.</p>
+         </div>
+         <div n="9" type="plant">
+            <head>9. <hi>Chamaeſipariſſus</hi> Lavender-Cotten.</head>
+            <p>Grows in Gardens if Planted, or elſe not in this Country flowers in <hi>Auguſt,</hi> it is hot and very dry; the Hearb drunke<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                  <desc>•</desc>
+               </gap> Wine is good againſt Serpents Scorpions, and any other kin<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                  <desc>•</desc>
+               </gap> poyſons both to Man and Beaſt.</p>
+         </div>
+         <div n="10" type="plant">
+            <head>10. <hi>Steophularia</hi> Celandine,</head>
+            <p>Grows about old rotten walls; flowers in <hi>May,</hi> hot and di<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                  <desc>•</desc>
+               </gap> the third degree, the Juice in Wine is good to waſh fretting ſor<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                  <desc>•</desc>
+               </gap> openeth the ſtopping of the Liver, it helpeth the Jaundice, very good in the Hemorhoids, the Juice of it mingled with W<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                  <desc>•</desc>
+               </gap> and waſh therewith.</p>
+         </div>
+         <div n="11" type="plant">
+            <head>11. <hi>Pervinca</hi> Pervincle.</head>
+            <p>Grows in moiſt ſhadow places; flowers in <hi>April,</hi> it is very and Aſtringent, the herb ſodd in Wine and drunken ſtops the b<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                  <desc>•</desc>
+               </gap>
+               <g ref="char:EOLunhyphen"/>dy flux, it ſtayeth the immoderate courſe of the flowers, an<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                  <desc>•</desc>
+               </gap> other fluxes of blood.</p>
+         </div>
+         <div n="12" type="plant">
+            <head>12. <hi>Crocus Saracenicus</hi> Baſtard Saffron,</head>
+            <p>They uſe to plant it in Gardens, it flowreth in <hi>Auguſt,</hi> hot i<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                  <desc>•</desc>
+               </gap> firſt degree dry in the ſecond, the Juice of the Seed taken Broth helpeth the ſtopping of the Bowells and Guts, it is alſo <gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                  <desc>•</desc>
+               </gap>
+               <g ref="char:EOLunhyphen"/>ry good for dropſys; the flowers drunk with honied water o<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                  <desc>•</desc>
+               </gap>
+               <g ref="char:EOLunhyphen"/>eth the Liver and are very good againſt the Jaundice.</p>
+         </div>
+         <div n="13" type="plant">
+            <head>13. <hi>Tanacetum</hi> Tanſie.</head>
+            <p>Two ſo<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                  <desc>•</desc>
+               </gap>ts, the one yellow, the other aſmnald white, both f<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                  <desc>•</desc>
+               </gap>
+               <pb n="3" facs="tcp:137327:7" rendition="simple:additions"/> 
+               <gap reason="illegible" resp="#KEYERS" extent="1 word">
+                  <desc>〈◊〉</desc>
+               </gap> in <hi>Auguſt,</hi> it is hot in the ſecond degree and dry in the third; <gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                  <desc>•</desc>
+               </gap> ſeeds are very good to kill the Wormes, the ſame drunken in <gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                  <desc>•</desc>
+               </gap>ine is for pain in the Bladder, and them that cannot piſs but by <gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                  <desc>•</desc>
+               </gap>ops, the Juice of the Herb is good for fits of the Ague.</p>
+         </div>
+         <div n="14" type="plant">
+            <head>14. <hi>Parthenum</hi> Fetherfew.</head>
+            <p>It groweth in dry places by old walls; it flowreth in <hi>Auguſt,</hi> 
+               <gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                  <desc>•</desc>
+               </gap>s hot in the third degree and dry in the ſecond, Feverfew dry<g ref="char:EOLhyphen"/>
+               <gap reason="illegible" resp="#KEYERS" extent="2 letters">
+                  <desc>••</desc>
+               </gap> and made into powder, and two drams of it taken in honey, very <gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                  <desc>•</desc>
+               </gap>ll purgeth Melancholy and purgeth the Stone.</p>
+         </div>
+         <div n="15" type="plant">
+            <head>15. <hi>Abrotonum</hi> Sothenwood.</head>
+            <p>It grows in Gardens flowers in <hi>Auguſt,</hi> it is hot in the third <gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                  <desc>•</desc>
+               </gap>ree, it is good againſt the Scatica and ſtoppings of Urirne and <gap reason="illegible" resp="#KEYERS" extent="2 letters">
+                  <desc>••</desc>
+               </gap>mans natural Purgations the Seeds being ſteeped in Wine and <gap reason="illegible" resp="#KEYERS" extent="2 letters">
+                  <desc>••</desc>
+               </gap>nken.</p>
+         </div>
+         <div n="16" type="plant">
+            <head>16. <hi>Abſynthium</hi> Wormwood.</head>
+            <p>Hot in the firſt degree dry in the third, comforteth the Sto<g ref="char:EOLhyphen"/>
+               <gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                  <desc>•</desc>
+               </gap>ck from hot Collerick humours, the decoction.</p>
+         </div>
+         <div n="17" type="plant">
+            <head>17. <hi>Bugloſſa</hi> Bugloſs.</head>
+            <p>There be five ſorts, they all flower in <hi>June July</hi> and <hi>Auguſt,</hi> to grow in barren Soyl, the decoction of the Roots with Hyſop Creſſes being drunk every Morning drives out all manner of Wormes ingendred in the Body of Man.</p>
+         </div>
+         <div n="18" type="plant">
+            <head>18. <hi>Lingua Canis</hi> Dogs Tong.</head>
+            <p>Grows about high-ways and Path ſides, flowreth in <hi>June,</hi> the <gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                  <desc>•</desc>
+               </gap>t roſted in hot Imbers and laid to the Fundament helpeth the <gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                  <desc>•</desc>
+               </gap>ard Hemerhoids, pounded with Barly Meal and laid to any In<g ref="char:EOLhyphen"/>
+               <gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                  <desc>•</desc>
+               </gap>tations or Wild fier is a Soveraign Remedy.</p>
+         </div>
+         <div n="19" type="plant">
+            <head>19. <hi>Barago</hi> Borage.</head>
+            <p>
+               <gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                  <desc>•</desc>
+               </gap>is hot and moiſt, it is good againſt Roughneſs and Harſhneſs <gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                  <desc>•</desc>
+               </gap>e Throat, being boyled with water and honey is good allſo <gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                  <desc>•</desc>
+               </gap>ſt Mellancholly</p>
+         </div>
+         <div n="20" type="plant">
+            <head>20. <hi>Anthillis</hi> A<gap reason="illegible" resp="#KEYERS" extent="2 letters">
+                  <desc>••</desc>
+               </gap>hillon.</head>
+            <p>Hot and dry in the firſt degree, flowreth in <hi>June</hi> it groweth in
+<pb n="4" facs="tcp:137327:8"/> the Axen of this Herb is uſed in making Glaſſes; the decoc<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                  <desc>•</desc>
+               </gap> of it drunk is good againſt the Strangury and pain in the Re<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                  <desc>•</desc>
+               </gap> alſo very good for green wounds to heal them up.</p>
+         </div>
+         <div n="21" type="plant">
+            <head>21. <hi>Bardana</hi> The Clote Burre.</head>
+            <p>Groweth by highways and dry Ditches, their ſeaſon is in <hi>A<gap reason="illegible" resp="#KEYERS" extent="2 letters">
+                     <desc>••</desc>
+                  </gap>
+               </hi> being very good ſteeped in Wine to provoke Urine and brea<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                  <desc>•</desc>
+               </gap> Stone in the Reigns or Bladder, alſo for ſuch as ſpet blood or <gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                  <desc>•</desc>
+               </gap>
+               <g ref="char:EOLunhyphen"/>rupted matter, and in Ointments good for hot ſwellings.</p>
+         </div>
+         <div n="22" type="plant">
+            <head>22. <hi>Ranunculus</hi> Crowfoot.</head>
+            <p>Grows in Ditches and ſtanding waters, flowers in <hi>April,</hi> 
+               <gap reason="illegible" resp="#KEYERS" extent="1 word">
+                  <desc>〈◊〉</desc>
+               </gap> againſt Tetters and Ringworms. The Powder of the Root o<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                  <desc>•</desc>
+               </gap> cauſeth Sneeſing.</p>
+         </div>
+         <div n="23" type="plant">
+            <head>23. <hi>Poligranthemum</hi> Gouldenknobs.</head>
+            <p>Grows on Graſſy Downs and in Gardens, if planted flowe<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                  <desc>•</desc>
+               </gap> 
+               <hi>April,</hi> and almoſt all the Summer is hot and dry, ſeldom uſ<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                  <desc>•</desc>
+               </gap> Phyſick, the Roots are good to draw Bliſters being outwardl<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                  <desc>•</desc>
+               </gap> 
+               <gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                  <desc>•</desc>
+               </gap>
+               <g ref="char:EOLunhyphen"/>plyed.</p>
+         </div>
+         <div n="24" type="plant">
+            <head>24. <hi>Dipſacum</hi> or <hi>
+                  <g ref="char:V">Ʋ</g>irga paſtoris,</hi> Teaſel.</head>
+            <p>It flowers in <hi>June,</hi> and is planted in this Country, is dry i<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                  <desc>•</desc>
+               </gap> Second degree, an Ointment made with it is good for chops i<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                  <desc>•</desc>
+               </gap> Fundament.</p>
+         </div>
+         <div n="25" type="plant">
+            <head>25. <hi>Succiſa Morſus Diaboli,</hi> Devils-bit</head>
+            <p>Hot and dry in the Second degree: inwardly taken it eaſe<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                  <desc>•</desc>
+               </gap> Fits of the Mother, and breaks Wind, very good to ſtop Swellin<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                  <desc>•</desc>
+               </gap> the Jaws being outwardly applied.</p>
+         </div>
+         <div n="26" type="plant">
+            <head>26. <hi>Triſolium</hi> Trefoil.</head>
+            <p>There be ſeveral ſorts, and are hot and dry in the Third d<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                  <desc>•</desc>
+               </gap> and flowers in <hi>August,</hi> good to purge Worms, Natural Pu<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                  <desc>•</desc>
+               </gap>
+               <g ref="char:EOLunhyphen"/>ons, and againſt the Strangury provokes Urine.</p>
+         </div>
+         <div n="27" type="plant">
+            <head>27. <hi>Alleluga</hi> &amp; <hi>Oxys</hi> Wood Sorrel.</head>
+            <p>Grows in ſhaddowed Woods, flowreth in <hi>April,</hi> is cold an<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                  <desc>•</desc>
+               </gap> it is good for them that have a cold feeble Stomach, the decoc<gap reason="illegible" resp="#KEYERS" extent="2 letters">
+                  <desc>••</desc>
+               </gap> goo<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                  <desc>•</desc>
+               </gap> for ſore Mouths.</p>
+         </div>
+         <div n="28" type="plant">
+            <pb n="5" facs="tcp:137327:8"/>
+            <head>28. <hi>Gramen</hi> Couch-craſs.</head>
+            <p>Is cold and dry, it groweth in Corn Fields and in low places, it <gap reason="illegible" resp="#KEYERS" extent="1 word">
+                  <desc>〈◊〉</desc>
+               </gap> good to boil in Wine for Gnawings of the Belly, very much pro<g ref="char:EOLhyphen"/>
+               <gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                  <desc>•</desc>
+               </gap>okes Urine, and brings forth the Stone and Gravel.</p>
+         </div>
+         <div n="29" type="plant">
+            <head>29. <hi>Phaenix</hi> Way-bennet.</head>
+            <p>Grows in the Borders of Fields, of nature dry and warm, ſtops <gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                  <desc>•</desc>
+               </gap>he Flux of the Belly, and womens Natural Purgations.</p>
+         </div>
+         <div n="30" type="plant">
+            <head>30. <hi>Bromos</hi> Oatgraſs.</head>
+            <p>Grows on Borders of Fields, and by way ſides may be found in <gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                  <desc>•</desc>
+               </gap>ar, all the Summer is dry of complection: the decocton is good <gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                  <desc>•</desc>
+               </gap>or ſtinking Breaths, or ſtinking ſmells, or corrupt ſores in the Noſe <gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                  <desc>•</desc>
+               </gap>eing waſhed therewith.</p>
+         </div>
+         <div n="31" type="plant">
+            <head>31. <hi>Crataeogonum</hi> Stichwort.</head>
+            <p>Grows under Hedges and Buſhes, flowers in <hi>April,</hi> the Seed <gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                  <desc>•</desc>
+               </gap>eateth and dryeth: Some write that if a Woman drinks the de<g ref="char:EOLhyphen"/>cocton of the Seed three days after her Natural Purgations ſhe may conceive of a man child if ſhe conceive within Forty days.</p>
+         </div>
+         <div n="32" type="plant">
+            <head>32. <hi>Junci</hi> Ruſhes, there be Five ſorts.</head>
+            <p>Grows in low watry places, of dry complexion, they flowrer <gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                  <desc>•</desc>
+               </gap>n <hi>July,</hi> it purges very much by Urine, the Seeds ſteeped and drunken in Wine ſtops any Flux in the Belly.</p>
+         </div>
+         <div n="33" type="plant">
+            <head>33. <hi>Arundo</hi> Reeds, there be Nine ſorts.</head>
+            <p>All hot and dry, they grow in ſtanding Waters and by Brook ſides, tis good in Dropſies, it provokes Urine and breaks the Stone the Aſhes are good for Scald heads.</p>
+         </div>
+         <div n="34" type="plant">
+            <head>34. <hi>Hydropiper</hi> Water Pepperwort.</head>
+            <p>Hot and dry in the Third degree, flowreth in <hi>Auguſt,</hi> groweth in Pools and Ditches, it waſheth all cold Swellings, it ſcattereth congealed Blood being laid thereto; the dry Leaves being powdred may ſerve inſtead of Pepper.</p>
+         </div>
+         <div n="35" type="plant">
+            <head>35. <hi>Perſicaria</hi> Arſemart.</head>
+            <p>Grows in watry places, is cold and dry, is good to lay to freſh
+<pb n="6" facs="tcp:137327:9"/> wounds the Juice being droped in; good againſt Impoſtumation and Inflamations and ſuch hot Swellings.</p>
+         </div>
+         <div n="36" type="plant">
+            <head>36. <hi>Staphiſagria</hi> Staviſaker.</head>
+            <p>Grows in ſhaddow places and in Gardens, flowreth in <hi>June,</hi> is hot allmoſt in the Fourth degree: Fifteen of the Seeds is ſtrong Vomit taken in any convenient Liquor, carries of groſs flam<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                  <desc>•</desc>
+               </gap> and ſlimy matter, it is alſo good with Vinegar to rub on Louſie Ap<g ref="char:EOLunhyphen"/>parel to kill Lice.</p>
+         </div>
+         <div n="37" type="plant">
+            <head>37. <hi>Cucumis</hi> Wild Cucumber.</head>
+            <p>Grows in Gardens if Set there, flowreth in <hi>Auguſt,</hi> is hot an<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                  <desc>•</desc>
+               </gap> dry in the Second degree, is good againſt Dropſies, good for Squi<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                  <desc>•</desc>
+               </gap>
+               <g ref="char:EOLunhyphen"/>nancy and the Swellings in the Throat.</p>
+         </div>
+         <div n="38" type="plant">
+            <head>38. <hi>Colocinihis</hi> Coloquintida.</head>
+            <p>It grows in <hi>Spain</hi> and <hi>Italy</hi> and brings forth fruit in <hi>Septembe<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>
+               </hi> like unto great Apples being very full of Seeds; it is hot and dr<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                  <desc>•</desc>
+               </gap> in the Third degree: it purges Cholerick humours; a Scruple i<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                  <desc>•</desc>
+               </gap> enough at a time, for it openeth the Belly mightily, not fitin<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                  <desc>•</desc>
+               </gap> nor ſafe for the Vulgar to meddle with.</p>
+         </div>
+         <div n="39" type="plant">
+            <head>39. <hi>Sena</hi> Sene.</head>
+            <p>It grows in <hi>Italy,</hi> it flowreth in <hi>June,</hi> hot in the Second de<g ref="char:EOLunhyphen"/>gree and dry in Firſt: the Codds and Leaves in the quantity of <gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                  <desc>•</desc>
+               </gap> Dram gently purgeth the Belly eſpecially Choler and Melancholy a very ſafe and harmleſs Purge.</p>
+         </div>
+         <div n="40" type="plant">
+            <head>40. <hi>Sambucus</hi> Eldar.</head>
+            <p>Hot and dry in the Third degree, eſpecially the Bark grows it ſhaddow moiſt places; flowreth in <hi>May,</hi> it is profitable in th<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                  <desc>•</desc>
+               </gap> Dropſey, the green Leaves pounded are good to aſwage hot Swel<g ref="char:EOLunhyphen"/>lings and to eaſe the pain of the Gout.</p>
+         </div>
+         <div n="41" type="plant">
+            <head>41. <hi>Humilis Sambucus</hi> Deanwort.</head>
+            <p>Grows near Highways, eſpecially in good ground, flowreth it <hi>July,</hi> it is hot and dry. The Root boiled in Wine and drank is good againſt the Dropſey and purgeth watry humours.</p>
+         </div>
+         <div n="42" type="plant">
+            <pb n="7" facs="tcp:137327:9"/>
+            <head>42. <hi>
+                  <g ref="char:V">Ʋ</g>itis alba</hi> Brion.</head>
+            <p>Grows at the bottom of Hedges and Ditches, flowreth in <hi>May,</hi> 
+               <gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                  <desc>•</desc>
+               </gap>ot and dry in the Third degree. The Root purges very well, <gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                  <desc>•</desc>
+               </gap>rovokes Urine, good againſt Falling Sickneſs; very good againſt old Coughs and Paines in the fides being outwardly applyed.</p>
+         </div>
+         <div n="43" type="plant">
+            <head>33. <hi>Polytrichon</hi> Maidenhair.</head>
+            <p>Grows in moiſt ſhadow places, the Hearb between hot and cold <gap reason="illegible" resp="#KEYERS" extent="2 letters">
+                  <desc>••</desc>
+               </gap>n degree keeps always green; good in all inflamations of the Liv<g ref="char:EOLhyphen"/>
+               <gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                  <desc>•</desc>
+               </gap>r and Reins.</p>
+         </div>
+         <div n="44" type="plant">
+            <head>44. <hi>Lichen</hi> or <hi>Hepatica</hi> Liverwort.</head>
+            <p>Grows on Stones in ſhaddow places, and flowers in <hi>July,</hi> is <gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                  <desc>•</desc>
+               </gap>old and dry: good for inflamations of the Liver and foul ſpread<g ref="char:EOLhyphen"/>
+               <gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                  <desc>•</desc>
+               </gap>ng Scabs.</p>
+         </div>
+         <div n="45" type="plant">
+            <head>45. <hi>Burſa Paſtoris</hi> Shephards Purſe.</head>
+            <p>Cold and dry, binding ſtops blood and cools Inflamations, ſtops <gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                  <desc>•</desc>
+               </gap>omens Purgation,.</p>
+         </div>
+         <div n="46" type="plant">
+            <head>46. <hi>Buphihalmum</hi> Ox-Eye.</head>
+            <p>This is good againſt Melancholy and Madneſs.</p>
+         </div>
+         <div n="47" type="plant">
+            <head>47. <hi>Buxas</hi> Box Tree Leaves.</head>
+            <p>Is hot, dry and binding, good againſt Tenams, or bitings of <gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                  <desc>•</desc>
+               </gap>y Venomous Beaſts, taken inwardly.</p>
+         </div>
+         <div n="48" type="plant">
+            <head>48. <hi>Calaminta Montana</hi> Mountain Calamint.</head>
+            <p>Hot and dry in the third degree, provokes Urine, haſtens <gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                  <desc>•</desc>
+               </gap>irth, and brings the after Birth and terms.</p>
+         </div>
+         <div n="49" type="plant">
+            <head>49. <hi>Calendula</hi> Marigolds.</head>
+            <p>The Leaves are hot in the ſecond degree, looſe the Belly with <gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                  <desc>•</desc>
+               </gap>inigar it Cools greately.</p>
+         </div>
+         <div n="50" type="plant">
+            <head>50. <hi>Carduncellas</hi> Groundſel.</head>
+            <p>Cold and Moiſt, it Purgeth Urine and Gravill.</p>
+         </div>
+         <div n="51" type="plant">
+            <head>51. <hi>Carduus B. Marie</hi> Lady Thiſtle.</head>
+            <p>Far more temperat; the Cardus good againſt the Jaundice, <gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                  <desc>•</desc>
+               </gap>ovoks Urine and breaks the ſtone.</p>
+         </div>
+         <div n="52" type="plant">
+            <pb n="8" facs="tcp:137327:10"/>
+            <head>52. <hi>Carduus Benedictus</hi> Cardus.</head>
+            <p>Hot and dry in the ſecond degree, a great Clenſer good to the Stomack and Belly, reſiſteth Poyſon, provokes Sweat.</p>
+         </div>
+         <div n="53" type="plant">
+            <head>53. <hi>Cataria Nepela</hi> Nep or Cat Mint.</head>
+            <p>The Verme is like Calemint, only Genteeler.</p>
+         </div>
+         <div n="54" type="plant">
+            <head>54. <hi>Cauda Epuina</hi> Horſe-tail.</head>
+            <p>Is of a Binding, Drying Quality, very good to ſtop ble<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                  <desc>•</desc>
+               </gap> at the Noſe or any other part,</p>
+         </div>
+         <div n="55" type="plant">
+            <head>55. <hi>Caulis Braſſica</hi> Collworts.</head>
+            <p>They are Cool and binding in Quality.</p>
+         </div>
+         <div n="56" type="plant">
+            <head>56. <hi>Ceniaurium</hi> Centauri.</head>
+            <p>They Purge the Liver and Spleen very well, good for Wounds and green Sickneſs.</p>
+         </div>
+         <div n="57" type="plant">
+            <head>57. <hi>Centinodium</hi> Knot Graſe.</head>
+            <p>Cold in the ſecond degree, binding ſtops any fluxes <gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                  <desc>•</desc>
+               </gap> Reines in Man or Woman.</p>
+         </div>
+         <div n="58" type="plant">
+            <head>58. <hi>Cerefolium</hi> Cherail.</head>
+            <p>Being taken inward provokes Luſt in old People.</p>
+         </div>
+         <div n="59" type="plant">
+            <head>59. <hi>Caepaea Anagalis Aquatica</hi> Brook-Lime.</head>
+            <p>Hot and dry good for Scurvey and Maingy Horſes.</p>
+         </div>
+         <div n="60" type="plant">
+            <head>60. <hi>Ceterachus</hi> Spleen-wort.</head>
+            <p>Good for Mellancholy People, and Purgeth the Reines</p>
+         </div>
+         <div n="61" type="plant">
+            <head>61. <hi>Chamamelum</hi> Garden Chamomel.</head>
+            <p>Helps Gripings in the Belly, and Purgeth the Reines.</p>
+         </div>
+         <div n="62" type="plant">
+            <head>62. <hi>Chamadvis</hi> Garmander.</head>
+            <p>It opens the Liver and ſpleen and provokes Terms.</p>
+         </div>
+         <div n="63" type="plant">
+            <head>63. <hi>Cinara</hi> &amp;c. Artichokes.</head>
+            <p>They Provoke Luſt and Purge Urine and Fluxes</p>
+         </div>
+         <div n="64" type="plant">
+            <head>64. <hi>Cicuta</hi> Hemlock.</head>
+            <p>Cold in the fourth degree, good in all hot humours outwar<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                  <desc>•</desc>
+               </gap> 
+               <gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                  <desc>•</desc>
+               </gap>
+               <g ref="char:EOLunhyphen"/>plied.</p>
+         </div>
+         <div n="65" type="plant">
+            <pb n="9" facs="tcp:137327:10"/>
+            <head>65. <hi>Conſolida Regalès Delphinum</hi> Larks Heels</head>
+            <p>
+               <gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                  <desc>•</desc>
+               </gap> reſiſteth Poyſons and Venomous Beaſts.</p>
+         </div>
+         <div n="66" type="plant">
+            <head>66. <hi>Contonaria</hi> Chaffweed.</head>
+            <p>
+               <gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                  <desc>•</desc>
+               </gap>oyled in lye it kills Nits in the head, ſmoked in a Pipe it <gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                  <desc>•</desc>
+               </gap> good for old Coughs of the Lungs.</p>
+         </div>
+         <div n="67" type="plant">
+            <head>67. <hi>Cruciata</hi> Croſs-wort.</head>
+            <p>
+               <gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                  <desc>•</desc>
+               </gap>ry and binding good for wounds Inward or outward.</p>
+         </div>
+         <div n="68" type="plant">
+            <head>68 <hi>Craſſila</hi> Orpine.</head>
+            <p>
+               <gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                  <desc>•</desc>
+               </gap> is good for Bloody-fluxes being inwardly taken.</p>
+         </div>
+         <div n="69" type="plant">
+            <head>69. <hi>Crythamus</hi> Samphier.</head>
+            <p>
+               <gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                  <desc>•</desc>
+               </gap> opens the Liver and Spleen, good for yellow Jaundice.</p>
+         </div>
+         <div n="70" type="plant">
+            <head>70. <hi>Cianus</hi> Blew-bottles.</head>
+            <p>
+               <gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                  <desc>•</desc>
+               </gap> is good for broken Veins and inflamations.</p>
+         </div>
+         <div n="71" type="plant">
+            <head>71. <hi>Dictamnus</hi> Dittany of <hi>Creet.</hi>
+            </head>
+            <p>
+               <gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                  <desc>•</desc>
+               </gap> 
+               <gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                  <desc>•</desc>
+               </gap>rings away dead Children, and haſtens Birth.</p>
+         </div>
+         <div n="72" type="plant">
+            <head>72. <hi>Eruca</hi> Rocket.</head>
+            <p>
+               <gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                  <desc>•</desc>
+               </gap>reatly provokes Luſt being taken inwardly.</p>
+         </div>
+         <div n="73" type="plant">
+            <head>73. <hi>Euphragia</hi> Eybright.</head>
+            <p>
+               <gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                  <desc>•</desc>
+               </gap>ry comfortable Herb for the dim ſighted Eye.</p>
+         </div>
+         <div n="74" type="plant">
+            <head>74. <hi>Malabathrum</hi> Indean-leaf.</head>
+            <p>Comforts the Stomack, helps Digeſtion and Apetite.</p>
+         </div>
+         <div n="75" type="plant">
+            <head>75. <hi>Foeniculum</hi> Fennes.</head>
+            <p>
+               <gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                  <desc>•</desc>
+               </gap>eaſeth Milk in Nurſes and Purgeth the Reines.</p>
+         </div>
+         <div n="76" type="plant">
+            <head>76. <hi>Fragerica</hi> Strawberry Leaves.</head>
+            <p>
+               <gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                  <desc>•</desc>
+               </gap>s Inflamations in the Lungs, inwardly taken.</p>
+         </div>
+         <div n="77" type="plant">
+            <head>77. <hi>Fraxinus</hi> Aiſh Tree Leaves.</head>
+            <p>
+               <gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                  <desc>•</desc>
+               </gap>s Rickets in Children and ſtoping of the Liver.</p>
+         </div>
+         <div n="78" type="plant">
+            <head>78. <hi>Galega</hi> Goats Rew.</head>
+            <p>
+               <gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                  <desc>•</desc>
+               </gap>d againſt Peſtilence, Feavers and the Falling Sickneſs.</p>
+         </div>
+         <div n="79" type="plant">
+            <pb n="10" facs="tcp:137327:11" rendition="simple:additions"/>
+            <head>79. <hi>Galion</hi> Ladys Bead Straw.</head>
+            <p>Dry and Binding, good to ſtop Blood and Fluxes.</p>
+         </div>
+         <div n="80" type="plant">
+            <head>80 <hi>Geniſta</hi> Broom.</head>
+            <p>It breaks the Stone, good in dropſies &amp;c.</p>
+         </div>
+         <div n="81" type="plant">
+            <head>81 <hi>Geraium</hi> Doves Foot.</head>
+            <p>Good for Collick, Breaketh the Stone.</p>
+         </div>
+         <div n="82" type="plant">
+            <head>82. <hi>Gratiola</hi> Hedg Hyſſop.</head>
+            <p>It Purgeth Phlegm and Dropſies very well.</p>
+         </div>
+         <div n="83" type="plant">
+            <head>83. <hi>Hedara Arborea Terreſtries</hi> Ground Ivy</head>
+            <p>Helps Burning and Scalding and old Ulcers &amp;c.</p>
+         </div>
+         <div n="84" type="plant">
+            <head>84. <hi>Primula Teris</hi> Cowſlips.</head>
+            <p>The Leaves are good for pains in the Head and Joynts.</p>
+         </div>
+         <div n="85" type="plant">
+            <head>85. <hi>Herba Paris</hi> Herb Truelove.</head>
+            <p>Good for Apoſthumes and Inflamations in the privities.</p>
+         </div>
+         <div n="86" type="plant">
+            <head>86. <hi>Herba Tenti Anemone</hi> Windflower.</head>
+            <p>It helps to Milk in Nurſes, in Oyntment cures Leproſies.</p>
+         </div>
+         <div n="87" type="plant">
+            <head>87. <hi>Helxine</hi> Pellitory of the Wall.</head>
+            <p>A cool moiſt cleanſing Herb good for Inflamations.</p>
+         </div>
+         <div n="88" type="plant">
+            <head>88. <hi>Hippogloſſum</hi> Horſetongue.</head>
+            <p>It eaſeth hard Labour in women, and womens Purgations</p>
+         </div>
+         <div n="89" type="plant">
+            <head>89. <hi>Hippoſelinum</hi> Alixander.</head>
+            <p>It purgeth Urine and brings away the after birth.</p>
+         </div>
+         <div n="90" type="plant">
+            <head>90. <hi>Hyſopus</hi> Hyſop</head>
+            <p>Helps old Coughs and Diſtillations upon the Lungs.</p>
+         </div>
+         <div n="91" type="plant">
+            <head>91. <hi>Hyoſciamus</hi> &amp;c. Henbane.</head>
+            <p>A cold Herb, not to be taken inwardly but in cooling O<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                  <desc>•</desc>
+               </gap>
+            </p>
+         </div>
+         <div n="92" type="plant">
+            <head>92. <hi>Hypericon</hi> St. <hi>Johns</hi> wort.</head>
+            <p>Good for ſpitting of Blood, or to cure freſh wounds.</p>
+         </div>
+         <div n="93" type="plant">
+            <pb n="11" facs="tcp:137327:11" rendition="simple:additions"/>
+            <head>93. <hi>Inguinalis Aſter</hi> Sharewort.</head>
+            <p>It helps Inflamations in the Grine and Fundament.</p>
+         </div>
+         <div n="94" type="plant">
+            <head>94. <hi>Iſatis Glaſtum</hi> Woad.</head>
+            <p>The Side being bathed with it eaſeth the pains of the Spleen.</p>
+         </div>
+         <div n="95" type="plant">
+            <head>95. <hi>Lactuca</hi> Lettice.</head>
+            <p>It provokes Sleep, and reſt Drunkenneſs and Heart burnings.</p>
+         </div>
+         <div n="96" type="plant">
+            <head>96. <hi>Marvum</hi> the Herb Maſtick.</head>
+            <p>Hot and dry in the Third degree; good againſt Cramps.</p>
+         </div>
+         <div n="97" type="plant">
+            <head>97. <hi>Mellilotus</hi> Melilot.</head>
+            <p>Inwardly taken it purgeth the Urine and Reins.</p>
+         </div>
+         <div n="98" type="plant">
+            <head>98. <hi>Meliſſa</hi> Bawm.</head>
+            <p>A fine comfortable Herb for a cold Stomack.</p>
+         </div>
+         <div n="99" type="plant">
+            <head>99. <hi>Mentha Sativa</hi> Spear Mints</head>
+            <p>It is very good Herb for to ſtop Vomiting.</p>
+         </div>
+         <div n="100" type="plant">
+            <head>100. <hi>Mentha Aquatica</hi> Water Mints.</head>
+            <p>It eaſeth pains in the Belly and Reins.</p>
+         </div>
+         <div n="101" type="plant">
+            <head>101. <hi>Mercurialis</hi> Mercury.</head>
+            <p>It purgeth watery humours and further conception.</p>
+         </div>
+         <div n="102" type="plant">
+            <head>102. <hi>Mezerion Spurg</hi> Olive.</head>
+            <p>A dangerous Purge not fit for every one to meddle with.</p>
+         </div>
+         <div n="103" type="plant">
+            <head>103. <hi>Millefolium</hi> Yarrow.</head>
+            <p>A healing Herb in wounds, and ſtops Bleeding.</p>
+         </div>
+         <div n="104" type="plant">
+            <head>104. <hi>Muſcus</hi> Moſs</head>
+            <p>Of the Oak is uſeful for ſtoping womens Fluxes.</p>
+         </div>
+         <div n="105" type="plant">
+            <head>105. <hi>Myrtus</hi> Myrtle tree.</head>
+            <p>The Leaves ſtop Vomiting and piſſing of Blood.</p>
+         </div>
+         <div n="106" type="plant">
+            <head>106. <hi>Naſturtium Aquaticum</hi> Water Creſs.</head>
+            <p>It cleanſeth the Blood, good for Scurvies and the Terms.</p>
+         </div>
+         <div n="107" type="plant">
+            <head>107. <hi>Nicotiana</hi> Tobacco.</head>
+            <p>A famous Herb in Oyntments for cold Gouty humours.</p>
+         </div>
+         <div n="108" type="plant">
+            <pb n="12" facs="tcp:137327:12" rendition="simple:additions"/>
+            <head>108 <hi>Lavendula</hi> Lavinder.</head>
+            <p>Very good for Swimmings, Palſies and Coldneſs of Brain.</p>
+         </div>
+         <div n="109" type="plant">
+            <head>109 <hi>Laureola.</hi> Laurell.</head>
+            <p>It Purgeth upwards and downwards (I mean the Leaves.)</p>
+         </div>
+         <div n="110" type="plant">
+            <head>110. <hi>Lentiſſeus Maſtick</hi> Tree.</head>
+            <p>The Leaves and Bark ſtop Fluxes and ſpitting Blood.</p>
+         </div>
+         <div n="111" type="plant">
+            <head>111. <hi>Lens Paluſtris</hi> Ducks-meat.</head>
+            <p>It cools Inflamations and hot Swellings in any Part.</p>
+         </div>
+         <div n="112" type="plant">
+            <head>112. <hi>Leviſticum</hi> Lovage.</head>
+            <p>It Clears the Sight, takes away Redneſs and Freckles.</p>
+         </div>
+         <div n="113" type="plant">
+            <head>113 <hi>Linaria</hi> Toad Flax.</head>
+            <p>It openeth the Liver and ſpleen, and Purgeth the Reins.</p>
+         </div>
+         <div n="114" type="plant">
+            <head>114. <hi>Lingua Cericenae</hi> Harts Tongue.</head>
+            <p>It ſtops all manner of Fluxes in Man or Woman.</p>
+         </div>
+         <div n="115" type="plant">
+            <head>115. <hi>Lupulus</hi> Hops.</head>
+            <p>A Clenſing Herb Purging the Liver and Spleen.</p>
+         </div>
+         <div n="116" type="plant">
+            <head>116. <hi>Malva</hi> Mallows.</head>
+            <p>A fine Cooling Herb good to aſſwage hot Swellings.</p>
+         </div>
+         <div n="117" type="plant">
+            <head>117. <hi>Mandragora</hi> Mandrakes.</head>
+            <p>Not fit for any inward uſe but in Cool Oyntments.</p>
+         </div>
+         <div n="118" type="plant">
+            <head>118. <hi>Marubium</hi> Whie Hore-hound.</head>
+            <p>It is a very good Herb for the Lungs and Conſumptions.</p>
+         </div>
+         <div n="119" type="plant">
+            <head>119. <hi>Ophiogloſſon</hi> Adderstongue.</head>
+            <p>A very good Herb for Bruiſes inward or outward.</p>
+         </div>
+         <div n="120" type="plant">
+            <head>120. <hi>Origanum</hi> Organy.</head>
+            <p>It helps old Coughs: in Oyntments it helps Itch.</p>
+         </div>
+         <div n="121" type="plant">
+            <head>121. <hi>Perſicorum folia</hi> Peach leaves.</head>
+            <p>A fine gentle Purge for Choler and Flegme &amp;c.</p>
+         </div>
+         <div n="122" type="plant">
+            <head>122. <hi>Plantage</hi> Plantain.</head>
+            <p>A very cooling Herb, good in all hot Gouts and Pains.</p>
+         </div>
+         <div n="123" type="plant">
+            <pb n="13" facs="tcp:137327:12"/>
+            <head>123. <hi>Portulaca</hi> Purſlain.</head>
+            <p>It cools the Blood and Liver, ſtops Fluxes and Terms.</p>
+         </div>
+         <div n="124" type="plant">
+            <head>124. <hi>Pulegium</hi> Pennyroyal.</head>
+            <p>
+               <gap reason="illegible" resp="#KEYERS" extent="2 letters">
+                  <desc>••</desc>
+               </gap>ovokes Urine and helps Virgins to their Purgations.</p>
+         </div>
+         <div n="125" type="plant">
+            <head>125. <hi>Quercus</hi> Oak leaves.</head>
+            <p>
+               <gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                  <desc>•</desc>
+               </gap>hey ſtay the Whits in women and dry up old Ulcers.</p>
+         </div>
+         <div n="126" type="plant">
+            <head>126. <hi>Roſemarinum</hi> Roſemary.</head>
+            <p>
+               <gap reason="illegible" resp="#KEYERS" extent="1 word">
+                  <desc>〈◊〉</desc>
+               </gap> helps Stuffings in the Head, Palſies and Jaundice.</p>
+         </div>
+         <div n="127" type="plant">
+            <head>127. <hi>Rumex</hi> Docks.</head>
+            <p>
+               <gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                  <desc>•</desc>
+               </gap>e of a cool and drying Nature; ſtops Fluxes.</p>
+         </div>
+         <div n="128" type="plant">
+            <head>128. <hi>Ruta</hi> Rue or Herb of Grace.</head>
+            <p>
+               <gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                  <desc>•</desc>
+               </gap>eſiſteth Poyſons, kills Worms, good againſt Small-pox.</p>
+         </div>
+         <div n="129" type="plant">
+            <head>129. <hi>Sabina</hi> Savin.</head>
+            <p>
+               <gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                  <desc>•</desc>
+               </gap>xpells both Birth and after Birth and Terms.</p>
+         </div>
+         <div n="130" type="plant">
+            <head>130. <hi>Salvia</hi> Sage.</head>
+            <p>
+               <gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                  <desc>•</desc>
+               </gap>rengthens the Senſes, ſtops Vomiting, ſpitting Blood.</p>
+         </div>
+         <div n="131" type="plant">
+            <head>131. <hi>Salix</hi> Willow Leaves.</head>
+            <p>
+               <gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                  <desc>•</desc>
+               </gap>ery good in Fluxes and ſpitting of Blood.</p>
+         </div>
+         <div n="132" type="plant">
+            <head>132 <hi>Sanicula</hi> Sanicle.</head>
+            <p>
+               <gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                  <desc>•</desc>
+               </gap>very good to clens old Wounds and Ulcers.</p>
+         </div>
+         <div n="133" type="plant">
+            <head>133. <hi>Saponaria</hi> Sope Wort.</head>
+            <p>
+               <gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                  <desc>•</desc>
+               </gap>erb much uſed in the Diſeaſe called the French-Pox.</p>
+         </div>
+         <div n="134" type="plant">
+            <head>134. <hi>Saluria</hi> Savory.</head>
+            <p>
+               <gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                  <desc>•</desc>
+               </gap>y good Herb to Expel Wind in the Body.</p>
+         </div>
+         <div n="135" type="plant">
+            <head>135. <hi>Saxifraga</hi> Saxafrag.</head>
+            <p>
+               <gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                  <desc>•</desc>
+               </gap>aks Wind helps the Collick and Stone.</p>
+         </div>
+         <div n="136" type="plant">
+            <head>136. <hi>Scabioſa</hi> Scabious.</head>
+            <p>
+               <gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                  <desc>•</desc>
+               </gap>y clenſing Herb to the breſt and Lungs.</p>
+         </div>
+         <div n="137" type="plant">
+            <pb n="14" facs="tcp:137327:13"/>
+            <head>137. <hi>Serpillum</hi> Mother Time.</head>
+            <p>It is a very good Herb to bring down Womens Terms.</p>
+         </div>
+         <div n="138" type="plant">
+            <head>138. <hi>Salanum</hi> Night Shade.</head>
+            <p>It is a very Cooling Herb in Oyntments outwardly,</p>
+         </div>
+         <div n="139" type="plant">
+            <head>139. <hi>Soldanelle</hi> Bindweed.</head>
+            <p>It Purgeth Dropſies and all watery Humours.</p>
+         </div>
+         <div n="140" type="plant">
+            <head>140. <hi>Sonchus</hi> Sowthiſtle.</head>
+            <p>Good for Frenzies, Cools Heat of the Fundament.</p>
+         </div>
+         <div n="141" type="plant">
+            <head>141 <hi>Tamariſcus</hi> Tamaris.</head>
+            <p>It is good for Rickets in Children, and very Hot.</p>
+         </div>
+         <div n="142" type="plant">
+            <head>142. <hi>Thymum</hi> Time.</head>
+            <p>It Clenſeth the Breſt, Lungs, Reins and Matrix.</p>
+         </div>
+         <div n="143" type="plant">
+            <head>143. <hi>Trenitalis</hi> Harts-Eaſe.</head>
+            <p>They are good for Falling-Sickneſes &amp;c.</p>
+         </div>
+         <div n="144" type="plant">
+            <head>144. <hi>Verbaſcum, Thapſus, Barbatus</hi> Mullin.</head>
+            <p>It ſtops Fluxes and the Hemorrhoides and Horſes Cough.</p>
+         </div>
+         <div n="145" type="plant">
+            <head>145. <hi>Verbena</hi> Vervain.</head>
+            <p>It is a very good remedy to cleanſe after Child bearing.</p>
+         </div>
+         <div n="146" type="plant">
+            <head>146. <hi>
+                  <g ref="char:V">Ʋ</g>iolaria</hi> Violet leaves.</head>
+            <p>A fine harmleſs Herb, inwardly or outwardly cooling.</p>
+         </div>
+         <div n="147" type="plant">
+            <head>147. <hi>Vitis Binifera</hi> the Vine Tree.</head>
+            <p>The Leaves are binding, cooling, ſtops Vomiting.</p>
+         </div>
+         <div n="148" type="plant">
+            <head>148. <hi>Vincitoxicum</hi> Swallowwort.</head>
+            <p>A Poultice made of the Herb cures womens Breaſts.</p>
+         </div>
+         <div n="149" type="plant">
+            <head>149. <hi>Urtica</hi> Nettles.</head>
+            <p>They ſtopbleeding at the Noſe, helps Plewrſies.</p>
+         </div>
+         <div n="150" type="plant">
+            <head>150. <hi>Umbilicus Veneris</hi> Navil Wort.</head>
+            <p>A cooling Herb, helps Kiby heels, Burnings and Sca<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                  <desc>•</desc>
+               </gap> any hot Swellings outwardly.</p>
+         </div>
+         <div n="151" type="plant">
+            <head>151. <hi>Roſa Alba Rubra Damaſena</hi> White, Red, Dam<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                  <desc>•</desc>
+               </gap>
+            </head>
+            <p>White good for ſore Eyes. Red cheateth the heart. <gap reason="illegible" resp="#KEYERS" extent="1 word">
+                  <desc>〈◊〉</desc>
+               </gap> purgeth.</p>
+         </div>
+         <div type="instructions">
+            <pb n="15" facs="tcp:137327:13"/>
+            <head>
+               <hi>Diaſcordium</hi> 106.</head>
+            <p>
+               <gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                  <desc>•</desc>
+               </gap>ake of Cinamon, Caſſia lignea, of each half an ounce, Scordi<g ref="char:EOLhyphen"/>
+               <gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                  <desc>•</desc>
+               </gap>n ounce: Dittany of Creet, Tormentil, Biſtort, Galbanum, <gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                  <desc>•</desc>
+               </gap>n Arabick, of each half an ounce: Opium one dram and a half: <gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                  <desc>•</desc>
+               </gap>el Seeds one dram and a half: Gentian half an ounce; Bole<g ref="char:EOLhyphen"/>
+               <gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                  <desc>•</desc>
+               </gap>enick an ounce and an half; Earth of Lemons half an ounce; <gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                  <desc>•</desc>
+               </gap>g Pepper, Ginger, of each two drams; clarified Honey two <gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                  <desc>•</desc>
+               </gap>nd and an half; Sugar of Roſes one pound; Canary Wine ten <gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                  <desc>•</desc>
+               </gap>ces: make them into an Electuary according to art.</p>
+            <p>It is a well compoſed Electuary, ſomething appropriated to the <gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                  <desc>•</desc>
+               </gap>ture of women, for it provokes the terms, haſtens their labour, <gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                  <desc>•</desc>
+               </gap>ps their uſual ſickneſs at the time of their lying in, I know <gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                  <desc>•</desc>
+               </gap>hing better; it ſtops fluxes, mightily ſtrengtheneth the heart <gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                  <desc>•</desc>
+               </gap>d ſtomack; neither is ſo hot but it may ſafely be given to weak <gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                  <desc>•</desc>
+               </gap>ople; and beſides provokes ſleep. It may ſafely be given to <gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                  <desc>•</desc>
+               </gap>ung children ten grains at a time; ancient people may take a <gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                  <desc>•</desc>
+               </gap>m or more: It is given as an excellent cordial in ſuch feavers as <gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                  <desc>•</desc>
+               </gap>e accompanied with want of ſleep.</p>
+         </div>
+         <div type="instructions">
+            <head>
+               <hi>Mithridate</hi> 106.</head>
+            <p>Take of Mirrh, Saffron, Agrick, Ginger, Cinnamon, Spick<g ref="char:EOLhyphen"/>
+               <gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                  <desc>•</desc>
+               </gap>ard, Frankincenſe, Treacle, Muſtard Seeds, of each ten drams; <gap reason="illegible" resp="#KEYERS" extent="2 letters">
+                  <desc>••</desc>
+               </gap>e Seeds of Hartwort, Opobalſamum, or Oyl of Nutmegs by ex<g ref="char:EOLhyphen"/>
+               <gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                  <desc>•</desc>
+               </gap>reſſion, Schenanth, Stoechas, Coſtus, Galbanum, Turpentine <gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                  <desc>•</desc>
+               </gap>ong Pepper, Caſtorium, Juice of Hypociſtis Styrax calamitis, Opopanax Indian leaf, or for want of it, Mace, of each one ounce: Caſſia lignea, Poley mountain, white Pepper, Scordium, the Seeds of carrots of Creet, carpobalſamum or cubebs, Troch, cypheos, <gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                  <desc>•</desc>
+               </gap>Bdelium, of each ſeven drams: Celtick, Spicknard, Gum Ara<g ref="char:EOLhyphen"/>
+               <gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                  <desc>•</desc>
+               </gap>oick, Macedonian Parſly Seeds, Opium cardamoms the leſs, Fen<g ref="char:EOLhyphen"/>nel Seeds, Gentian, red Roſe Leaves, Dittany of Creet, of each five drams; Annis ſeeds, Aſarabacca, Orris, Acorus, the greater Valerian, Sagapen, of each three drams: Meum Acacia, the bel<g ref="char:EOLhyphen"/>lies of Scinks, the tops of St. <hi>John</hi>'s wort, of each two drams and an half; Mallego wine ſo much as is ſufficient to diſſolve the Juices
+<pb n="16" facs="tcp:137327:14"/> and Gums, clarified Honey the treble weight of all, the win <gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                  <desc>•</desc>
+               </gap>
+               <g ref="char:EOLunhyphen"/>cepted: make them into an Electuary according to art.</p>
+            <p>It is good againſt poyſon and ſuch as have done themſelves w<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                  <desc>•</desc>
+               </gap> by taking filthy Medicines; it provokes ſweat, it helps conti<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                  <desc>•</desc>
+               </gap> watrings of the Stomack, ulcers in the body, conſumptions, w<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                  <desc>•</desc>
+               </gap>
+               <g ref="char:EOLunhyphen"/>neſs of the limbs, rids the body of cold humours, and diſe<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                  <desc>•</desc>
+               </gap> coming of cold, it remedies cold infirmities of the brain, ſtopping of the paſſage of the ſenses (<hi>viz.</hi> hearing, ſeeing, ſm<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                  <desc>•</desc>
+               </gap>
+               <g ref="char:EOLunhyphen"/>ing, &amp;c.) by cold, it expels wind, helps the chollick, prove appetite to ones victuals, it helps ulcers in the bladder, if <hi>G<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>
+               </hi> ſay true; as alſo difficulty of Urine, it caſts out the dead chi<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                  <desc>•</desc>
+               </gap> and helps ſuch women as cannot conceive by reaſon of cold, i<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                  <desc>•</desc>
+               </gap> an admirable remedy for melancholly, and all diſeaſes of the b<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                  <desc>•</desc>
+               </gap> coming through cold, it would fill a whole ſheet of Paper to rec<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                  <desc>•</desc>
+               </gap> them all up particularly. You may take a ſcruple or half a d<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                  <desc>•</desc>
+               </gap> in the morning, and follow your buiſineſs; two drams will m<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                  <desc>•</desc>
+               </gap> you ſweat, yea one dram if your body be weak, for then two dr<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                  <desc>•</desc>
+               </gap> may be dangerous becauſe of its heat.</p>
+            <p>
+               <hi>Reader in my firſt ſheet I told you the number of the Bones, being</hi> 3 <hi>according to the Latine Dictick, Thus Engliſhed</hi>
+               <q>
+                  <l>If you 302 Bones chance to find</l>
+                  <l>Few or none are left behind.</l>
+               </q>
+            </p>
+            <p>The Muſcles are according to the Beſt Anatomiſts 270: A for the Veins and Arteries they ſo diſagree in their judgments th<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                  <desc>•</desc>
+               </gap> I think it needleſs to trouble my ſelf or thee with ſetting here t<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                  <desc>•</desc>
+               </gap> number it being Little Material, unleſs their Names and Plac<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                  <desc>•</desc>
+               </gap> were given an account of which will be too long for this, and <gap reason="illegible" resp="#KEYERS" extent="1 word">
+                  <desc>〈◊〉</desc>
+               </gap> deſign.</p>
+            <trailer>FINIS.</trailer>
+            <pb facs="tcp:137327:14"/>
+         </div>
+      </body>
+   </text>
+</TEI>
